@@ -14,7 +14,7 @@ A RESTful API backend for managing workouts and exercises, built with Flask, SQL
 
 **1. Clone the repository and navigate into the project:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/phillsatellite/workout_application.git
 cd workout_application
 ```
 
