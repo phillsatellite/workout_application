@@ -56,11 +56,6 @@ python app.py
 
 The server will start at `http://127.0.0.1:5555`.
 
-To reset your database at any time, re-run the seed file:
-```bash
-python seed.py
-```
-
 ---
 
 ## API Endpoints
